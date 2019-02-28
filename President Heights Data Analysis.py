@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb 28 10:49:19 2019
-
-@author: 321758898
-"""
-
 # US President Heights Data
 import pandas as pd
 import numpy as np
